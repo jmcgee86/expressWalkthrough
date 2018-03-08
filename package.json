@@ -1,0 +1,25 @@
+{
+  "name": "express-walk-through",
+  "version": "1.0.0",
+  "description": "Basic Intro to Express Routing",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmcgee86/expressWalkthrough.git"
+  },
+  "keywords": [
+    "Express"
+  ],
+  "author": "Jim McGee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmcgee86/expressWalkthrough/issues"
+  },
+  "homepage": "https://github.com/jmcgee86/expressWalkthrough#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
